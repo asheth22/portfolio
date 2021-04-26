@@ -1,7 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
-import Particle from "../Particle";
 import "../../style.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 
@@ -16,7 +15,7 @@ import astrozoders from "../../Assets/Projects/Astrozoders.png";
 function Projects() {
   return (
     <Container fluid className="project-section">
-      <Particle />
+     
       <Container>
         <h1 className="project-heading">
           My <strong className="purple">Projects </strong>
@@ -28,7 +27,7 @@ function Projects() {
               imgPath={employeedir}
               isBlog={false}
               title="Employee Directory"
-              description="React application that creates an employee directory for list of employeesThe app displays non-sentsitive information about the employees."
+              description="React application that creates an employee directory for list of employees. The app displays non-sentsitive information about the employees."
               link="https://asheth22.github.io/Employee-Directory/"
             />
           </Col>  
@@ -37,7 +36,7 @@ function Projects() {
               imgPath={budget}
               isBlog={false}
               title="Budget Tracker"
-              description="This Progressive Web Application (PWA) application enables the user to add expenses and funds to their budget with or without an online connection. When entering transactions offline, data would be when connected back online."
+              description="This Progressive Web Application (PWA) enables the user to add expenses and funds to their budget with or without an online connection. When entering transactions offline, data would be updated when connected back online."
               link="https://fast-sierra-61070.herokuapp.com/"
             />
           </Col>

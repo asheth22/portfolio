@@ -3,7 +3,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import "../../style.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 import homeLogo from "../../Assets/home-main.png";
-import Particle from "../Particle";
+
 
 import Type from "./Type";
 
@@ -11,7 +11,7 @@ function Home() {
   return (
     <section>
       <Container fluid className="home-section" id="home">
-        <Particle />
+        
         <Container className="home-content">
           <Row>
             <Col md={7} className="home-header">

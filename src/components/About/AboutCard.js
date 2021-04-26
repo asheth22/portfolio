@@ -11,10 +11,10 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             I am <span className="purple">Anjali Sheth </span>
             
-            <br />I have 25 years of professional experience in many industries including manufacturing, service and health insurance
+            <br />I have 25 years of professional experience in many industries including manufacturing, service, and health insurance.
             <br />
             <br />
-            I am an entrepreneur and a small business owner. I beleive in life-long learning, and recently I got Full Stack Web Development Certification
+            I am an entrepreneur and a small business owner. I beleive in life-long learning, and recently I got Full Stack Web Development Certification.
             I enjoy work-life balance and love:
           </p>
           <ul>
