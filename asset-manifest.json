@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.aeeeeb36.chunk.css",
-    "main.js": "/portfolio/static/js/main.43416df8.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.43416df8.chunk.js.map",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.3bdd1095.js",
-    "runtime-main.js.map": "/portfolio/static/js/runtime-main.3bdd1095.js.map",
+    "main.js": "/portfolio/static/js/main.6abec9b0.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.6abec9b0.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.e990bcb8.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.e990bcb8.js.map",
     "static/css/2.20aa2d7b.chunk.css": "/portfolio/static/css/2.20aa2d7b.chunk.css",
-    "static/js/2.4e8500c7.chunk.js": "/portfolio/static/js/2.4e8500c7.chunk.js",
-    "static/js/2.4e8500c7.chunk.js.map": "/portfolio/static/js/2.4e8500c7.chunk.js.map",
-    "static/js/3.d5b03145.chunk.js": "/portfolio/static/js/3.d5b03145.chunk.js",
-    "static/js/3.d5b03145.chunk.js.map": "/portfolio/static/js/3.d5b03145.chunk.js.map",
+    "static/js/2.033e5a29.chunk.js": "/portfolio/static/js/2.033e5a29.chunk.js",
+    "static/js/2.033e5a29.chunk.js.map": "/portfolio/static/js/2.033e5a29.chunk.js.map",
+    "static/js/3.3df9e824.chunk.js": "/portfolio/static/js/3.3df9e824.chunk.js",
+    "static/js/3.3df9e824.chunk.js.map": "/portfolio/static/js/3.3df9e824.chunk.js.map",
     "index.html": "/portfolio/index.html",
     "static/css/2.20aa2d7b.chunk.css.map": "/portfolio/static/css/2.20aa2d7b.chunk.css.map",
     "static/css/main.aeeeeb36.chunk.css.map": "/portfolio/static/css/main.aeeeeb36.chunk.css.map",
-    "static/js/2.4e8500c7.chunk.js.LICENSE.txt": "/portfolio/static/js/2.4e8500c7.chunk.js.LICENSE.txt",
+    "static/js/2.033e5a29.chunk.js.LICENSE.txt": "/portfolio/static/js/2.033e5a29.chunk.js.LICENSE.txt",
     "static/media/Anjali-Sheth-Resume.01bb16d5.pdf": "/portfolio/static/media/Anjali-Sheth-Resume.01bb16d5.pdf",
     "static/media/Astrozoders.3786177b.png": "/portfolio/static/media/Astrozoders.3786177b.png",
     "static/media/Budget.4a5e2923.png": "/portfolio/static/media/Budget.4a5e2923.png",
@@ -26,10 +26,10 @@
     "static/media/home-main.90fd4c24.png": "/portfolio/static/media/home-main.90fd4c24.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.3bdd1095.js",
+    "static/js/runtime-main.e990bcb8.js",
     "static/css/2.20aa2d7b.chunk.css",
-    "static/js/2.4e8500c7.chunk.js",
+    "static/js/2.033e5a29.chunk.js",
     "static/css/main.aeeeeb36.chunk.css",
-    "static/js/main.43416df8.chunk.js"
+    "static/js/main.6abec9b0.chunk.js"
   ]
 }
