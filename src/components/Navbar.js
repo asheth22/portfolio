@@ -30,8 +30,8 @@ function NavBar() {
     >
       <Container>
         <Navbar.Brand>
-        
-          <img src={logo} className="img-fluid logo" alt="brand" />
+          <h2 className = "myname"> Anjali Sheth </h2>
+          
         </Navbar.Brand>
         <Navbar.Toggle
           aria-controls="responsive-navbar-nav"
