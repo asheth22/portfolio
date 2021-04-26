@@ -48,7 +48,7 @@ function Resume() {
                 "I have a passion to help organizations achieve operational excellence by eliminating waste, improving quality, and effectively leveraging modern technologies to optimize performance"
               ]}
             />
-            <h3 className="resume-title">Skills and Experrise</h3>
+            <h3 className="resume-title">Skills and Expertise</h3>
             <Resumecontent
               title="Areas of Expertise"
               content={[
@@ -77,7 +77,7 @@ function Resume() {
                 "Bachelor of Engineering"                
               ]}            />
             <Resumecontent
-              title="1Certifications"              
+              title="Certifications"              
               content={[                
                 "Full Stack Web Developer",
                 "Lean Six Sigma Master Black Belt",
