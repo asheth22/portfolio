@@ -30,7 +30,7 @@ function NavBar() {
     >
       <Container>
         <Navbar.Brand>
-          <h2 className = "myname"> Anjali Sheth </h2>
+          <h3 className = "myname"> Anjali Sheth </h3>
           
         </Navbar.Brand>
         <Navbar.Toggle
@@ -76,7 +76,8 @@ function NavBar() {
               >
                 <i className="far fa-file-alt"></i> Resume
               </Nav.Link>
-            </Nav.Item>          
+            </Nav.Item>
+          
           </Nav>
         </Navbar.Collapse>
       </Container>

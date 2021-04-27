@@ -24,3 +24,13 @@ The navigation bar allows the user to jump to the different sections in the port
 > React, React hooks, React router
 > Many npm packages
 > bootstrap for styling
+
+```
+## Mock-up
+
+
+## Application Deployment
+
+The application can be launched from Github page:
+[Anjali-React-Portfolio](https://asheth22.github.io/portfolio/)
+

@@ -156,6 +156,7 @@ html {
 }
 .myname {
   color: rgb(250, 250, 250) !important;
+  font-weight: bold;
 }
 .navbar-nav .nav-link {
   color: white !important;
