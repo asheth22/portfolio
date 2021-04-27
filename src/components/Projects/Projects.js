@@ -9,7 +9,7 @@ import budget from "../../Assets/Projects/Budget.png";
 import fitness from "../../Assets/Projects/Fitness.png";
 import pokemon from "../../Assets/Projects/Pokemon.png";
 import burger from "../../Assets/Projects/burger.png";
-import astrozoders from "../../Assets/Projects/Astrozoders.png";
+import googlebooks from "../../Assets/Projects/googlesearch.png";
 
 
 function Projects() {
@@ -22,6 +22,17 @@ function Projects() {
         </h1>
         
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+
+        <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={googlebooks}
+              isBlog={false}
+              title="Google Book Search"
+              description="React based application that allows the user to search and save books. The application uses google books API"
+              link="https://asheth22.github.io/Astrozoders/"
+            />
+          </Col>
+
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={employeedir}
@@ -69,16 +80,7 @@ function Projects() {
               link="https://polar-castle-85742.herokuapp.com/"
             />
           </Col>
-
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={astrozoders}
-              isBlog={false}
-              title="Astrozoders"
-              description="HTML, javascript, css, jquery application using external API allowing the user to get daily horoscope and tarot card reading."
-              link="https://asheth22.github.io/Astrozoders/"
-            />
-          </Col>
+        
         </Row>       
         
       </Container>
