@@ -26,7 +26,7 @@ The navigation bar allows the user to jump to the different sections in the port
 ```
 ## Mock-up
 
-![Demo(https://user-images.githubusercontent.com/74203959/116307422-4fb15a00-a774-11eb-8c0f-7a9d48a05f61.png)
+![Mock-up](https://user-images.githubusercontent.com/74203959/116307422-4fb15a00-a774-11eb-8c0f-7a9d48a05f61.png)
 
 ## Application Deployment
 
