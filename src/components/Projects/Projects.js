@@ -29,7 +29,7 @@ function Projects() {
               isBlog={false}
               title="Google Book Search"
               description="React based application that allows the user to search and save books. The application uses google books API"
-              link="https://asheth22.github.io/Astrozoders/"
+              link="https://immense-chamber-63705.herokuapp.com/"
             />
           </Col>
 
