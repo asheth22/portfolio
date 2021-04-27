@@ -15,12 +15,10 @@ The application also has links to my Linkedin page and github
 ```
 The application is optimized for Search Engines and is best viewwed in Google Chrome
 The navigation bar allows the user to jump to the different sections in the portfolio
-
 ```
 ## Application Features
 
 ```
-
 > React, React hooks, React router
 > Many npm packages
 > bootstrap for styling
@@ -28,6 +26,7 @@ The navigation bar allows the user to jump to the different sections in the port
 ```
 ## Mock-up
 
+![Demo(https://user-images.githubusercontent.com/74203959/116307422-4fb15a00-a774-11eb-8c0f-7a9d48a05f61.png)
 
 ## Application Deployment
 
